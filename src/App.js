@@ -7,6 +7,7 @@ function App() {
 	return <Layout 
   header={<Header />}
   menu={<Menu/>}
+  
    />
 }
 
