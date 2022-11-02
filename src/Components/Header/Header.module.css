@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    height: 200px;
+    background-image: url("https://cdn.pixabay.com/photo/2014/08/26/21/31/french-fries-428553_960_720.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 3em;
+    font-weight: 800;
+    color: black;
+    text-transform: uppercase;
+}
